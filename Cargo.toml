@@ -6,6 +6,3 @@ license = "gpl-3.0"
 repository = "https://github.com/bedsteler20/include_gsettings"
 
 [lib]
-
-[dependencies]
-gio = "0.20.4"
