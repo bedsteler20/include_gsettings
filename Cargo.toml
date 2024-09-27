@@ -3,6 +3,7 @@ name = "include_gsettings"
 version = "0.1.0"
 edition = "2021"
 license = "gpl-3.0"
+repository = "https://github.com/bedsteler20/include_gsettings"
 
 [lib]
 
